@@ -32,7 +32,7 @@
 
 
 -- 3. Ranking klientów wg łącznej kwoty wydanej na wypożyczenia
--- Cel: zidentyfikować najcenniejszych klientów (ang. Top Value Customers).
+-- Cel: zidentyfikować najcenniejszych klientów.
 
 
 	SELECT 
